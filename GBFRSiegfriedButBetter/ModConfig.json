@@ -1,9 +1,9 @@
 {
   "ModId": "gbfr.siegfried.but.better",
-  "ModName": "Siegfried But Better",
-  "ModAuthor": "Claude Sonnet 5 lmao",
-  "ModVersion": "1.0.1",
-  "ModDescription": "Minor adjustments Siegfried's kit that aim to preserve vanilla gameplay but improve its flow.\nFeatures can be toggled by right-clicking and pressing 'Configure'.",
+  "ModName": "GBFR Siegfried But Better",
+  "ModAuthor": "dskyragno",
+  "ModVersion": "1.3.2",
+  "ModDescription": "Minor adjustments Siegfried's kit that aim to preserve vanilla gameplay but improve its flow. Features can be toggled by right-clicking and pressing 'Configure'.",
   "ModDll": "GBFRSiegfriedButBetter.dll",
   "ModIcon": "Preview.png",
   "ModR2RManagedDll32": "x86/GBFRSiegfriedButBetter.dll",
